@@ -42,7 +42,7 @@
         <div class="px-2 mx-3 md:w-1/3">
             <img src="/assets/img/icon-stack.svg" class="w-12 h-12" alt="stack icon">
 
-            <h3 id="intro-write" class="mb-0 text-2xl text-blue-900">Quit procrasting. <br>Just get writing.</h3>
+            <h3 id="intro-write" class="mb-0 text-2xl text-blue-900">Quit procrastinating. <br>Just get writing.</h3>
 
             <p>We've taken care of all the tedious stuff involed in getting a super simple blog set up on a Laravel site. Don't reinvent the wheel. Just write.</p>
         </div>
