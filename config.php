@@ -3,10 +3,10 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'scrawl.projektgopher.com',
     'production' => false,
-    'siteName' => 'Docs Starter Template',
-    'siteDescription' => 'Beautiful docs powered by Jigsaw',
+    'siteName' => 'Scrawl Documentation',
+    'siteDescription' => 'The lowest friction single user markdown powered blogging option for Laravel',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
