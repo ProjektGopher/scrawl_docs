@@ -71,7 +71,7 @@
         <footer class="py-4 mt-12 text-sm text-center bg-white" role="contentinfo">
             <ul class="flex flex-col justify-center md:flex-row">
                 <li class="md:mr-2">
-                    &copy; <a href="https://projektgopher.com" title="Tighten website">ProjektGopher</a> {{ date('Y') }}.
+                    &copy; <a href="https://projektgopher.com" title="ProjektGopher Multimedia website">ProjektGopher</a> {{ date('Y') }}.
                 </li>
 
                 <li>
